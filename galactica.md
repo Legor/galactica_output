@@ -1,4 +1,5 @@
->>> "In summary, Galactica is able to " <<< 
+Prompt:
+> "In summary, Galactica is able to "
 
 In summary, Galactica is able to (i) produce a large variety of galaxy types
 by varying the model parameters; (ii) produce galaxies with a variety
